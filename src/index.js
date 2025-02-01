@@ -8,7 +8,7 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <h1 className="">Weather app</h1>
+    <h1 className="text-center">Weather app</h1>
     <Weather />
   </StrictMode>
 );
